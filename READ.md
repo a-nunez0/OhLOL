@@ -14,12 +14,7 @@ I created this to demonstate that I can use python, Visual Studio Code and to sh
 *Python
 *GitHub/Git
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
